@@ -1,0 +1,13 @@
+Codes singlefile
+<br>
+<br>
+<button onclick="fetch('https://cdn.jsdelivr.net/gh/acodingprojects/urban-umbrella@master/UGS.html').then(r=>r.text()).then(h=>document.write(h))
+">UGS FILES</button>
+<br>
+<button onclick="fetch('https://cdn.jsdelivr.net/gh/acodingprojects/urban-umbrella@master/GNMATH.html').then(r=>r.text()).then(h=>document.write(h))">GN MATH</button>
+<br>
+<button onclick="fetch('https://cdn.jsdelivr.net/gh/acodingprojects/urban-umbrella@master/fivenightsatepstiens.html').then(r=>r.text()).then(h=>document.write(h))
+">FNAE</button>
+<br>
+<button onclick="fetch('https://cdn.jsdelivr.net/gh/acodingprojects/urban-umbrella@master/asher.js').then(r=>r.text()).then(h=>document.write('<script>' + h + '</script>'))
+">CRASHER</button>
