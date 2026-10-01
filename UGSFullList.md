@@ -1,4 +1,5 @@
-This SHOULD be a full list of the games in UGS Files, if some aren't there no complaining I warned you.
+This SHOULD be a full list of the games in UGS Files. If some aren't there, no complaining, I warned you.
+I recommend to use ctrl + F to search through this.
 
 
 
