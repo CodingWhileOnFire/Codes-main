@@ -395,6 +395,7 @@ let files = [
 "clchronotrigger",
 "clchuzzle",
 "clCircloO2",
+"clcodes",
 "clciviballs",
 "clciviballs2",
 "clclashnslash",
